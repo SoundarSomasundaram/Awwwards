@@ -3,8 +3,6 @@ Tech Stack
 🌀 Tailwind CSS v4
 🎞️ GSAP (GreenSock Animation Platform)
 Features
-In this course, You’ll learn how to:
-
 ✨ Parallax Like a Pro
 ⚡️ Master Clip-Path Magic
 🕹️ Control ScrollTrigger & ScrollSmoother
