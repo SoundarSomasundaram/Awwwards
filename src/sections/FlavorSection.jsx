@@ -16,4 +16,5 @@ const FlavorSection = () => {
   );
 };
 
+
 export default FlavorSection;
